@@ -22,9 +22,9 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Georgia.
-- :telescope: I received a higher mathematical education, worked as an accountant, support engineer for several years. I have been studying front-end development for the last year and looking for a job.
+- :telescope: After getting my degree in mathematics, I worked as an accountant for 4 years and as a support engineer for 2 years. It's been a year since I studied front-end development, and I'm looking for a job right now.
 
-- :zap: In my free time, I solve problems  and read tech articles.
+- :zap: During my leisure time, I'm looking through various interesting cases, reading relevant technical publications to gain more insight into front-end development and learning English.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-liliya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liliya-busova-605944268)
 
